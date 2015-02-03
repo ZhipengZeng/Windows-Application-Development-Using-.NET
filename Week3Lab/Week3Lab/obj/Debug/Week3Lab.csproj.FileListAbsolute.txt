@@ -1,0 +1,11 @@
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Week3Lab\Week3Lab\bin\Debug\Week3Lab.exe.config
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Week3Lab\Week3Lab\bin\Debug\Week3Lab.exe
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Week3Lab\Week3Lab\bin\Debug\Week3Lab.pdb
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Week3Lab\Week3Lab\obj\Debug\Week3Lab.csprojResolveAssemblyReference.cache
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Week3Lab\Week3Lab\obj\Debug\Week3Lab.ChildForm.resources
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Week3Lab\Week3Lab\obj\Debug\Week3Lab.MainForm.resources
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Week3Lab\Week3Lab\obj\Debug\Week3Lab.Properties.Resources.resources
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Week3Lab\Week3Lab\obj\Debug\Week3Lab.csproj.GenerateResource.Cache
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Week3Lab\Week3Lab\obj\Debug\Week3Lab.exe
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Week3Lab\Week3Lab\obj\Debug\Week3Lab.pdb
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Week3Lab\Week3Lab\obj\Debug\Week3Lab.AboutForm.resources

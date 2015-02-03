@@ -1,0 +1,6 @@
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Lab4\Lab4\bin\Debug\Lab4.exe.config
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Lab4\Lab4\bin\Debug\Lab4.exe
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Lab4\Lab4\bin\Debug\Lab4.pdb
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Lab4\Lab4\obj\Debug\Lab4.exe
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Lab4\Lab4\obj\Debug\Lab4.pdb

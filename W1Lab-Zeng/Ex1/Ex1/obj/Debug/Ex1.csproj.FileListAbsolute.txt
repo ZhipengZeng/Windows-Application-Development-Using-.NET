@@ -1,0 +1,27 @@
+C:\Users\n01025248\Desktop\Ex1\Ex1\bin\Debug\Ex1.exe.config
+C:\Users\n01025248\Desktop\Ex1\Ex1\bin\Debug\Ex1.exe
+C:\Users\n01025248\Desktop\Ex1\Ex1\bin\Debug\Ex1.pdb
+C:\Users\n01025248\Desktop\Ex1\Ex1\obj\Debug\Ex1.csprojResolveAssemblyReference.cache
+C:\Users\n01025248\Desktop\Ex1\Ex1\obj\Debug\Ex1.Form1.resources
+C:\Users\n01025248\Desktop\Ex1\Ex1\obj\Debug\Ex1.Properties.Resources.resources
+C:\Users\n01025248\Desktop\Ex1\Ex1\obj\Debug\Ex1.csproj.GenerateResource.Cache
+C:\Users\n01025248\Desktop\Ex1\Ex1\obj\Debug\Ex1.exe
+C:\Users\n01025248\Desktop\Ex1\Ex1\obj\Debug\Ex1.pdb
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Ex1\Ex1\bin\Debug\Ex1.exe.config
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Ex1\Ex1\obj\Debug\Ex1.exe
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Ex1\Ex1\obj\Debug\Ex1.pdb
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Ex1\Ex1\bin\Debug\Ex1.exe
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Ex1\Ex1\bin\Debug\Ex1.pdb
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Ex1\Ex1\obj\Debug\Ex1.csprojResolveAssemblyReference.cache
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Ex1\Ex1\obj\Debug\Ex1.Form1.resources
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Ex1\Ex1\obj\Debug\Ex1.Properties.Resources.resources
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Ex1\Ex1\obj\Debug\Ex1.csproj.GenerateResource.Cache
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Ex1\Ex1\bin\Debug\Ex1.exe.config
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Ex1\Ex1\obj\Debug\Ex1.exe
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Ex1\Ex1\obj\Debug\Ex1.pdb
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Ex1\Ex1\bin\Debug\Ex1.exe
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Ex1\Ex1\bin\Debug\Ex1.pdb
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Ex1\Ex1\obj\Debug\Ex1.csprojResolveAssemblyReference.cache
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Ex1\Ex1\obj\Debug\Ex1.Form1.resources
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Ex1\Ex1\obj\Debug\Ex1.Properties.Resources.resources
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Ex1\Ex1\obj\Debug\Ex1.csproj.GenerateResource.Cache

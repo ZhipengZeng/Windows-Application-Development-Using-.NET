@@ -1,0 +1,9 @@
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Ex2-1\Ex2-1\bin\Debug\Ex2-1.exe.config
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Ex2-1\Ex2-1\bin\Debug\Ex2-1.exe
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Ex2-1\Ex2-1\bin\Debug\Ex2-1.pdb
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Ex2-1\Ex2-1\obj\Debug\Ex2-1.csprojResolveAssemblyReference.cache
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Ex2-1\Ex2-1\obj\Debug\Ex2_1.InvoiceTotal.resources
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Ex2-1\Ex2-1\obj\Debug\Ex2_1.Properties.Resources.resources
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Ex2-1\Ex2-1\obj\Debug\Ex2-1.csproj.GenerateResource.Cache
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Ex2-1\Ex2-1\obj\Debug\Ex2-1.exe
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\Ex2-1\Ex2-1\obj\Debug\Ex2-1.pdb
