@@ -1,0 +1,9 @@
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\MyPaint\MyPaint\bin\Debug\MyPaint.exe.config
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\MyPaint\MyPaint\obj\Debug\MyPaint.csprojResolveAssemblyReference.cache
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\MyPaint\MyPaint\obj\Debug\MyPaint.Form1.resources
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+G:\Dropbox\2nd Semester\Windows Application Development Using .NET\Lab\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
